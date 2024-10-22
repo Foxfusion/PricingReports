@@ -1,6 +1,6 @@
 name: PricingReports
 description: Pricing
-version: '1'
+version: '2'
 author: wgfox@foxfusion.net
 language: python
 buildSystem: ''
