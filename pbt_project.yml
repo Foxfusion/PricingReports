@@ -1,6 +1,6 @@
 name: CustomerReport
 description: Customer Reporting
-version: 0.0.1
+version: '3'
 author: wgfox@foxfusion.net
 language: python
 buildSystem: ''
